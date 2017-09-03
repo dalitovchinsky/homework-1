@@ -1,0 +1,11 @@
+@import url("_typography.css");
+
+    h2 {
+        color: rgba(0,0,0,.3);
+    }
+
+    .logo {
+        size: 140px;
+     }
+
+   
