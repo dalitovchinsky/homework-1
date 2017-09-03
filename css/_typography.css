@@ -1,9 +1,7 @@
+body {
+    font-family: "slabo 27px";
+}
 
-    
-    body {
-        font-family: "slabo 27px";
-    }
-
-    aside {
-     font-family: "Roboto";
-    }
+aside {
+    font-family: "Roboto";
+}
